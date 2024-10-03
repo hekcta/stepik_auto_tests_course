@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 
-test test test
+Это репа для хранения дз по курсу автоматизация тестирования на степике, https://stepik.org/course/575/
