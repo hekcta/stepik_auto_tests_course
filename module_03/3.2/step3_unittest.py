@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import unittest
-
+import pytest
 
 class TestPage(unittest.TestCase):
     def test_registration1(self):
